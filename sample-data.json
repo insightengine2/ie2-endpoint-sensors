@@ -1,0 +1,9 @@
+{
+    "sensortype": "my-sensor-type",
+    "sensorid": 0,
+    "sensordata": {
+        "time": "the-time",
+        "humidity": "27",
+        "temp": "17"
+    }
+}
