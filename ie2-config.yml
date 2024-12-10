@@ -2,7 +2,7 @@
 # this value will be used to lookup up an existing lambda function
 name: lambda-sensors
 architecture: arm64
-rolename: lambda-role
+rolename: ie2-lambda-eventproducer
 runtime: provided.al2023
 handler: bootstrap
 filename: bootstrap.zip
